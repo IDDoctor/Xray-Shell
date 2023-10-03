@@ -1,0 +1,1 @@
+vless://d25b872a-0d06-41b8-8cb3-bade530ae546@bs.org:90?encryption=none&security=tls&sni=bs.org&alpn=http%2F1.1&fp=chrome&type=ws&host=bs.org&path=%2Fbs#Freedom%20-%20Vless
